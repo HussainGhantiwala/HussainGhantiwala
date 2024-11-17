@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)](https://github.com/HussainGhantiwala/HussainGhantiwala)
 <h1 align="center">Hi 👋, I'm Hussain Ghantiwala</h1>
-<h3 align="center">I am a Front-End developer from India</h3>
+<h3 align="center">I am a Developer from India</h3>
 <img align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainghantiwala&label=Profile%20views&color=0e75b6&style=flat" alt="hussainghantiwala" /> </p>
 
