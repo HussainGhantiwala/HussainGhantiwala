@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hussain Ghantiwala</h1>
 <h3 align="center">I am a Developer from India</h3>
 <img align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainghantiwala&label=Profile%20views&color=0e75b6&style=flat" alt="hussainghantiwala" /> </p>
+<p align="left" width="300"> <img src="https://komarev.com/ghpvc/?username=hussainghantiwala&label=Profile%20views&color=0e75b6&style=flat" alt="hussainghantiwala" /> </p>
 
 - 🌱 I’m currently learning **React, React Native, Postgresql**
 
